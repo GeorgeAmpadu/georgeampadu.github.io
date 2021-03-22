@@ -9,6 +9,7 @@ function App() {
         <p>
          My name is George Ampadu and I'm going to master React!!
         </p>
+        <p>I'll be a pro at this soon!</p>
         <a
           className="App-link"
           href="https://github.com/GeorgeAmpadu"
